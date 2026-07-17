@@ -1,4 +1,8 @@
 # 💫 About Me:
+Professional overthinker and backend engineer by trade. I speak fluent backpressure and make data queues behave. Previously kept cars from crashing into things at Bosch (ADAS); now I build distributed systems and AI platforms that keep servers from doing the same. Just quieter.<br><br>
+
+Eat. Code. Break prod. Fix prod. Repeat.<br>
+
 🔭 I’m currently building scalable backend systems, distributed infrastructure, and AI-powered developer tools.<br><br>🌱 I’m currently learning distributed systems, cloud-native architectures, ML infrastructure/model and large-scale AI serving.<br><br>👯 I’m looking to collaborate on open-source backend, AI/ML infrastructure, and systems programming projects.<br><br>🤝 I'm looking for help with Scaling systems design patterns and production ML deployment practices — always learning from people further along that path.<br><br>💬 Ask me about Backend systems in Python/Go/C++, event-driven architecture (Kafka, Redis), AI-native systems, or automotive embedded systems (ECU validation, ADAS) , that's my somewhat unusual background bridge.<br><br>⚡ Fun fact: Started out validating ADAS and braking systems for Mercedes-Benz vehicles before moving into backend and AI/ML systems. I enjoy recreating production-grade systems from scratch to understand how they work under the hood.
 
 
