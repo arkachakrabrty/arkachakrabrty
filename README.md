@@ -1,26 +1,49 @@
-# 💫 About Me:
-Professional overthinker and backend engineer by trade. I make data queues behave and pretend that's not a personality trait. Previously kept cars from crashing into things at Bosch (ADAS); now I build distributed systems and AI platforms that keep servers from doing the same. Just quieter.<br>
+<h1 align="center">Arkaprava Chakraborty</h1>
+<p align="center"><strong>Software Engineer · Backend Systems · Applied AI</strong></p>
+<p align="center">
+  <a href="https://github.com/arkachakrabrty">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/arkaprava-chakraborty-a4a6b2182/">LinkedIn</a> ·
+  <a href="mailto:arkachakrabortyanve@gmail.com">Email</a>
+</p>
 
-🔭 I’m currently building scalable backend systems, distributed infrastructure, and AI-powered developer tools.<br><br>🌱 I’m currently learning distributed systems, cloud-native architectures, ML infrastructure/model and large-scale AI serving.<br><br>👯 I’m looking to collaborate on open-source backend, AI/ML infrastructure, and systems programming projects.<br><br>🤝 I'm looking for help with Scaling systems design patterns and production ML deployment practices — always learning from people further along that path.<br><br>💬 Ask me about Backend systems in Python/Go/C++, event-driven architecture (Kafka, Redis), AI-native systems, or safety-critical automotive software systems (ADAS) , that's my somewhat unusual background bridge.<br><br>⚡ Fun fact: Started out validating ADAS and braking systems for Mercedes-Benz vehicles before moving into backend and AI/ML systems. I enjoy recreating production-grade systems from scratch to understand how they work under the hood.
+## About
 
+I build backend services, real-time systems, and AI-enabled applications, with experience across early-stage FinTech products and safety-critical automotive software.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arkaprava-chakraborty-a4a6b2182/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arkachakrabortyanve@gmail.com) 
+My work spans **Python/FastAPI, asynchronous APIs, distributed messaging, PostgreSQL, and LLM integration**—from designing multi-agent workflows to debugging and validating systems where reliability matters.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=plastic&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=plastic&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=plastic&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.shion.dev/api?username=arkachakrabrty&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
-![](https://streak-stats.demolab.com/?user=arkachakrabrty&theme=apprentice&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arkachakrabrty&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm especially interested in **backend engineering, applied AI, distributed systems, and LLM infrastructure**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arkachakrabrty&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Selected experience
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **Early-stage FinTech startup · AI engineering & backend product development (2025–2026):** Co-developed an LLM-powered product from concept to MVP. Built asynchronous workflows for three specialist agents, WebSocket streaming, failure handling, JWT authentication, workspace-scoped access control, and usage limits.
+- **Bosch Global Software Technologies · Software Engineer (2023–2025):** Worked across GenAI applications, automotive software, and validation. Contributed to RAG/multimodal AI capabilities and ADAS-related work; improved workflows covering **6,000+ ECU validation scenarios**, reducing integration and execution effort by **40%**.
+- **HighRadius · Software Engineering Intern (2022):** Developed REST APIs and ML-integrated frontend modules for financial automation workflows.
 
----
-[![](https://komarev.com/ghpvc/?username=arkachakrabrty&icon=0&color=0)](https://visitcount.itsvg.in)
+## Featured projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | Engineering focus | Stack |
+| --- | --- | --- |
+| **[CollabAI — Multi-Agent Collaboration Backend](https://github.com/arkachakrabrty/collabai)** | Concurrent specialist agents, real-time WebSocket updates, JWT/workspace authorization, retries, failure isolation, and conflict-aware synthesis. | Python, FastAPI, PostgreSQL, WebSockets |
+| **[Local LLM Inference Gateway](https://github.com/arkachakrabrty/llm-inference-gateway)** | Redis Streams-based request batching, deterministic canary routing, Prometheus metrics, and pluggable local-model backends. | Python, FastAPI, Redis, Docker, llama.cpp |
+| **[Concurrent Event Ingestion Engine](https://github.com/arkachakrabrty/event-ingestion-engine)** | Multithreaded TCP ingestion, bounded queues, end-to-end backpressure, and optional Kafka delivery. | C++17, Kafka, CMake |
+| **[AI-Powered Job Search Automation](https://github.com/arkachakrabrty/job_search_tool)** | ATS aggregation, filtering, deduplication, optional LLM-assisted matching, and a local review dashboard. | Python, SQLite, Next.js |
+
+Each project README covers architecture, setup, tests or benchmarks, and known limitations. Where a benchmark uses a **mock model** or **no-op Kafka producer**, its results are identified as such rather than presented as production throughput.
+
+## Technical toolkit
+
+| Area | Technologies and practices |
+| --- | --- |
+| **Languages** | Python, C++, Go, TypeScript, SQL |
+| **Backend & real-time** | FastAPI, Node.js, REST APIs, asyncio, WebSockets, JWT, RBAC |
+| **Data & messaging** | PostgreSQL, Redis, Kafka, MQTT, InfluxDB |
+| **Applied AI** | LLM orchestration, RAG, model integration, Hugging Face, PyTorch, scikit-learn, OpenCV |
+| **Infrastructure** | Docker, AWS, Linux, Git, CI/CD, Prometheus |
+| **Engineering fundamentals** | System design, concurrency, API security, testing, debugging, observability, backpressure |
+
+## How I approach engineering
+
+I care about **clear interfaces, measurable behavior, and honest documentation**. That means testing failure paths, designing for concurrency and access control, benchmarking under stated conditions, and documenting what's implemented versus what's still planned.
+
+**Interested in collaborating?** Reach out on [LinkedIn](https://www.linkedin.com/in/arkaprava-chakraborty-a4a6b2182/) or [email](mailto:arkachakrabortyanve@gmail.com).
